@@ -1,5 +1,5 @@
-# botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+# dika28
+BOT WHATSAPP HP DIKA
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -46,7 +46,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Donate                           |
 
 ## Special Thanks to
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`dika28`](https://github.com/Sho-ryuu/dika28)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
+* [`Paypal`](https://www.paypal.me/endikamusic?locale.x=id_ID)
